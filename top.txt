@@ -1,0 +1,10 @@
+1.) Use common sense variable names
+2.) Don't use global variables (usually best to use let over var)
+3.) Use comments to help explain your code (try to make code simple rather than overly complex however)
+4.) Do not overuse DOM manipulation
+5.) Stick to one task per one function
+6.) Declare your variables at the top of your code
+7.) Avoid writing too much on one line, space things out for readability 
+8.) use camel case for function and variable names
+9.) use template strings for variable concatenations
+10.) include error handling in your code
